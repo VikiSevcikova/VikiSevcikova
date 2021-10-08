@@ -1,10 +1,18 @@
 ### Hi there, my name is Viki 👋
+
                                                          
 I am a Full Stack Developer with a passion for UX and UI design and development with React.
 <ul>
   <li>🚀  I’m currently learning React.js, Next.js, Redux, Node.js, Express, Styled Components </li>
   <li>💬  Ask me about anything, I am happy to help </li>
-  <li>📫  How to reach me: viki.sevcikova63@gmail.com </li>
+  <li>📫  How to reach me: <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png"/ height="30em"> </a> </li>
+</ul>
+
+<strong> My Projects on github pages: </strong>
+<ul>
+  <li> <a href="https://vikisevcikova.github.io/WeatherApp/"> Weather App </a> </li>
+  <li> <a href="https://vikisevcikova.github.io/movie-website/"> Movie Website </a> </li>
+  <li> <a href="https://vikisevcikova.github.io/PortfolioWeb/"> Portfolio Website </a> </li>
 </ul>
 
 📈 <strong> My GitHub Stats: </strong>
