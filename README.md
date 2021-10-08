@@ -5,6 +5,8 @@
 I am a Full Stack Developer with a passion for UX and UI design and development with React.
 </br>
 </br>
+I am very excited that there are so many technologies to learn and problems to solve so I can grow my skills. Currently, I am learning more frontend technologies and I really enjoy that my creative side can evolve.
+</br>
 <ul>
   <li>🚀  I’m currently learning React.js, Next.js, Redux, Node.js, Express, Styled Components </li>
   <li>💬  Ask me about anything, I am happy to help </li>
