@@ -5,7 +5,7 @@ I am a Full Stack Developer with a passion for UX and UI design and development 
 <ul>
   <li>🚀  I’m currently learning React.js, Next.js, Redux, Node.js, Express, Styled Components </li>
   <li>💬  Ask me about anything, I am happy to help </li>
-  <li>📫  How to reach me: <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png"/ height="30em"> </a> </li>
+  <li>📫  How to reach me: <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png"/ height="18em"> </a> </li>
 </ul>
 
 <strong> My Projects on github pages: </strong>
