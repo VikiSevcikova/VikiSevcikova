@@ -18,6 +18,7 @@ I am very excited that there are so many technologies to learn and problems to s
 <ul>
   <li> <a href="https://vikisevcikova.github.io/WeatherApp/"> Weather App </a> </li>
   <li> <a href="https://vikisevcikova.github.io/movie-website/"> Movie Website </a> </li>
+  <li> <a href="https://vikisevcikova.github.io/react-todo-app/"> Task Management App </a> </li>
   <li> <a href="https://vikisevcikova.github.io/PortfolioWeb/"> Portfolio Website </a> </li>
 </ul>
 
